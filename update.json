@@ -1,5 +1,6 @@
 {
-  "force_update": false,
-  "message": "New version available. Please update to continue.",
+  "min_version_code": 1,
+  "force_update": true,
+  "message": "A newer version of the app is available with bug fixes and performance improvements. Please update to continue.",
   "play_store_link": "https://play.google.com/store/apps/details?id=com.shaheen.smartautorefreshbrowser"
 }
