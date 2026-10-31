@@ -3,7 +3,7 @@
   "app_disabled_redirect_url": "",
   "app_disabled_message": "This app is no longer available. Please download our new app to continue.",
   "force_update": true,
-  "minimum_version_code": 7,
+  "minimum_version_code": 6,
   "message": "A new version of Smart Auto Refresh Browser is required. Please update to continue.",
   "play_store_link": "https://play.google.com/store/apps/details?id=com.shaheen.smartautorefreshbrowser"
 }
